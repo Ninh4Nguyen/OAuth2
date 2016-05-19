@@ -1,0 +1,10 @@
+E:\Intership\Projects\Resource\BusinessEntities\bin\Debug\BusinessEntities.dll.config
+E:\Intership\Projects\Resource\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Intership\Projects\Resource\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Intership\Projects\Resource\BusinessEntities\bin\Debug\EntityFramework.dll
+E:\Intership\Projects\Resource\BusinessEntities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Intership\Projects\Resource\BusinessEntities\bin\Debug\EntityFramework.xml
+E:\Intership\Projects\Resource\BusinessEntities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Intership\Projects\Resource\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Intership\Projects\Resource\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Intership\Projects\Resource\BusinessEntities\obj\Debug\BusinessEntities.pdb
